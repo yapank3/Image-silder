@@ -3,7 +3,7 @@
         $("#imageListId").sortable({
             update: function(event, ui) {
                     getIdsOfImages();
-                } //end update         
+                }         
         });
     });
   
